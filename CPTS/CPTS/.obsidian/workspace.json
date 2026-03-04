@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "5ec8f9a3b1083958",
+    "type": "split",
+    "children": [
+      {
+        "id": "e03951e08e2fdbda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13bb619b6e2526b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/Enumeration Principles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enumeration Principles"
+            }
+          },
+          {
+            "id": "8f2bf39ee99948dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/Cloud Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Resources"
+            }
+          },
+          {
+            "id": "6be970555da9e1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/FTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FTP"
+            }
+          },
+          {
+            "id": "643f737eb2d60a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/SMB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB"
+            }
+          },
+          {
+            "id": "8a99920abb33ee3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/NFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NFS"
+            }
+          },
+          {
+            "id": "04ab1cc87d00f422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS"
+            }
+          },
+          {
+            "id": "b241bfebcc8ff5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Footprinting/SMTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMTP"
+            }
+          },
+          {
+            "id": "9f88f42098e4f93f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMAP and POP3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMAP and POP3"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9da782c3cf08595d",
+    "type": "split",
+    "children": [
+      {
+        "id": "22be102fa1ebc127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd37048568a1a034",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f157e6593c49993c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "283d5e139807dedf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "758d78a10c5b97fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "11863170f4b85367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44009f829c5ec5d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Footprinting/Domain Information.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Domain Information"
+            }
+          },
+          {
+            "id": "ee0387824739d429",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Footprinting/Domain Information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Domain Information"
+            }
+          },
+          {
+            "id": "06746727b195278b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d53636713da9598c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Footprinting/Domain Information.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Domain Information"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9f88f42098e4f93f",
+  "lastOpenFiles": [
+    "Footprinting/DNS.md",
+    "Footprinting/NFS.md",
+    "Footprinting/SMB.md",
+    "Footprinting/FTP.md",
+    "Footprinting/Staff.md",
+    "Footprinting/Cloud Resources.md",
+    "Footprinting/Domain Information.md",
+    "Footprinting/Enumeration Methodology.md",
+    "Footprinting/Enumeration Principles.md",
+    "Pasted image 20260204080604.png",
+    "Pasted image 20260202163637.png",
+    "Pasted image 20260108092816.png",
+    "Pasted image 20260129105205.png",
+    "Pasted image 20260129105620.png",
+    "Intro to Binary, Hex, and Decimal Systems - Anitsyphon.md",
+    "Doc-Blackburn-Numbering-Systems-Anti-cast.pdf",
+    "IMAP and POP3.md",
+    "Footprinting/SMTP.md",
+    "Footprinting/DNS",
+    "Welcome.md",
+    "Footprinting"
+  ]
+}
