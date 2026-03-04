@@ -2,7 +2,7 @@
 
 ## HTB Path
 
-- [] [Penetration Testing Process](#penetration-testing-process)
+- [ ] [Penetration Testing Process](#penetration-testing-process)
 - [] Getting Started
 - [] Network Enumeration with Nmap
 - [] Footprinting
