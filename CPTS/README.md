@@ -2,9 +2,9 @@
 
 ## HTB Path
 
-- [ ] [Penetration Testing Process](#penetration-testing-process)
-- [ ] [Getting Started](#getting-started)
-- [ ] [Network Enumeration with Nmap](#network-enumeration-with-nmap)
+- [x] [Penetration Testing Process](#penetration-testing-process)
+- [x] [Getting Started](#getting-started)
+- [x] [Network Enumeration with Nmap](#network-enumeration-with-nmap)
 - [ ] [Footprinting](#footprinting)
 - [ ] [Information Gathering - Web Edition](#information-gathering---web-edition)
 - [ ] [Vulnerability Assessment](#vulnerability-assessment)
