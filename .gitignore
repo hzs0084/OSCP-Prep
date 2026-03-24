@@ -1,0 +1,9 @@
+
+# Ignore the hidden files of .obsidian
+
+CPTS/CPTS/.obsidian
+
+# Ignore the .DS_store
+
+.DS_store
+
