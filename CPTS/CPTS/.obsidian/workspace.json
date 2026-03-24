@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Footprinting/Cloud Resources.md",
+                "file": "IMAP and POP3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Resources"
+              "title": "IMAP and POP3"
             }
           },
           {
@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMAP and POP3.md",
+                "file": "Footprinting/Domain Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMAP and POP3"
+              "title": "Domain Information"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,25 +268,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f88f42098e4f93f",
+  "active": "8f2bf39ee99948dd",
   "lastOpenFiles": [
-    "Footprinting/DNS.md",
-    "Footprinting/NFS.md",
+    "Footprinting/Cloud Resources.md",
+    "Footprinting/Enumeration Principles.md",
+    "Footprinting/Domain Information.md",
+    "Footprinting/Enumeration Methodology.md",
+    "IMAP and POP3.md",
+    "Pasted image 20260204080604.png",
+    "Pasted image 20260202163637.png",
+    "Doc-Blackburn-Numbering-Systems-Anti-cast.pdf",
     "Footprinting/SMB.md",
     "Footprinting/FTP.md",
     "Footprinting/Staff.md",
-    "Footprinting/Cloud Resources.md",
-    "Footprinting/Domain Information.md",
-    "Footprinting/Enumeration Methodology.md",
-    "Footprinting/Enumeration Principles.md",
-    "Pasted image 20260204080604.png",
-    "Pasted image 20260202163637.png",
+    "Footprinting/DNS.md",
+    "Footprinting/NFS.md",
     "Pasted image 20260108092816.png",
     "Pasted image 20260129105205.png",
     "Pasted image 20260129105620.png",
     "Intro to Binary, Hex, and Decimal Systems - Anitsyphon.md",
-    "Doc-Blackburn-Numbering-Systems-Anti-cast.pdf",
-    "IMAP and POP3.md",
     "Footprinting/SMTP.md",
     "Footprinting/DNS",
     "Welcome.md",
